@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "00873a7536eb0adc0c8206b3",
+  "owner": "mp4svvry5",
+  "repo": "page-c7a9f280ff31cba8bee922c2",
+  "title": "初落",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c7a9f280ff31cba8bee922c2",
+      "a": "初落",
+      "b": "",
+      "entity": "初落",
+      "brand": "初落",
+      "separator": "",
+      "path": "index.html",
+      "hash": "a511396be78ab431d561aceb288b49ed053e1a1ce9771b89412ec72aefdc6a3d",
+      "content": {
+        "keyword1": "初落",
+        "keyword2": "",
+        "primary_entity": "初落",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "初落提供机场订阅与 VPN 网络加速服务，覆盖办公跨境、流媒体与游戏加速场景，支持多端官方客户端下载，套餐含基础版、旗舰版与团队版。",
+          "AI_DESCRIPTION": "初落提供机场订阅与 VPN 网络加速服务，覆盖办公跨境、流媒体与游戏加速场景，支持多端官方客户端下载，套餐含基础版、旗舰版与团队版。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*:before,*:after{box-sizing:inherit}body{margin:0;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#F6F3EC;color:#1E2A23;font-size:16px;line-height:1.75;overflow-x:hidden}a{color:#1F4D3A;text-decoration:underline}a:hover{color:#0F2F24}img{max-width:100%}header{background:#1F4D3A;color:#F6F3EC}header a{color:#F6F3EC;text-decoration:none}header .bar{max-width:1100px;margin:0 auto;padding:14px 16px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}.brand-mark{font-weight:700;font-size:22px;letter-spacing:.08em}nav{display:flex;flex-wrap:wrap;gap:10px 16px}nav a{padding:6px 0}main{display:block}.wrap{max-width:1100px;margin:0 auto;padding:28px 16px}h1{font-size:2rem;line-height:1.3;margin:0 0 12px;color:#143328}h2{font-size:1.45rem;line-height:1.35;margin:0 0 12px;color:#1F4D3A}h3{font-size:1.12rem;line-height:1.4;margin:0 0 8px;color:#16382C}p{margin:0 0 12px}ul,ol{margin:0 0 12px;padding-left:1.2em}.hero{background:#E8EFE8;border-bottom:4px solid #1F4D3A}.lead{font-size:1.05rem;max-width:40em}.row{display:flex;flex-wrap:wrap;gap:20px;align-items:stretch;margin:18px 0}.row.reverse{flex-direction:row-reverse}.col{flex:1 1 280px;background:#FFFdf8;border:1px solid #D7E3D6;padding:18px 16px}.col.plain{background:transparent;border:0;padding:0}.note{background:#E8EFE8;border-left:4px solid #1F4D3A;padding:12px 14px;margin:12px 0}.plans{display:flex;flex-wrap:wrap;gap:16px}.plan{flex:1 1 240px;background:#FFFdf8;border:1px solid #C9D8C8;padding:18px 16px}.plan.featured{border:2px solid #1F4D3A;background:#EEF5EE}.badge{display:inline-block;background:#1F4D3A;color:#F6F3EC;padding:2px 8px;font-size:12px;margin-bottom:8px}.price{font-size:1.4rem;font-weight:700;color:#1F4D3A;margin:6px 0}.subprice{color:#3E5548;font-size:.95rem;margin-bottom:10px}.faq-wrap{background:#EEF5EE;border:2px solid #1F4D3A;padding:18px 16px}details{background:#FFFdf8;border:1px solid #C9D8C8;padding:10px 12px;margin:0 0 10px}summary{font-weight:700;color:#143328}details p{margin:8px 0 0}.block{margin:0 0 36px}footer{background:#143328;color:#E6EEE7;padding:24px 16px;font-size:.95rem}footer a{color:#D7E8D6}footer .wrap{padding:0}.grid-links{display:flex;flex-wrap:wrap;gap:8px 18px}.muted{color:#3E5548}.adbox{border:1px dashed #1F4D3A;background:#FFFdf8;padding:14px 16px}.sitemap a,.friends a{margin-right:12px;display:inline-block}address{font-style:normal}@media (max-width:720px){h1{font-size:1.65rem}.row,.row.reverse{flex-direction:column}.plans{flex-direction:column}nav{width:100%}}</style><header><div class=\"bar\"><div class=\"brand-mark\">初落</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">订阅套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#map\">网站地图</a></nav></div></header><main><section class=\"hero\" id=\"top\"><div class=\"wrap\"><h1>初落</h1><p class=\"lead\">初落官方网站面向需要稳定跨境连接的用户，提供机场订阅与 VPN 网络加速能力。你可按流量与设备数量选择基础版、旗舰版或团队版，在办公协作、流媒体与游戏加速等场景中使用官方客户端完成连接。</p><p class=\"muted\">认准初落官网获取订阅说明与客户端下载入口，避免来路不明的安装包与仿冒站点。</p></div></section><div class=\"wrap\"><section class=\"block\" id=\"intro\"><h2>品牌简介</h2><div class=\"row\"><div class=\"col\"><h3>初落机场与初落 VPN 如何协作</h3><p>初落把「机场订阅」和「VPN 加速客户端」放在同一套服务里：订阅负责节点、流量与线路策略，客户端负责在电脑与手机上建立加密通道。品牌名「初落」强调连接过程应像雨后初晴一样干净利落——少等待、少跳转、少无效线路。</p><p>服务侧重点是可预期的带宽、可切换的节点池，以及面向多设备的同时在线策略。基础线路覆盖日常网页与沟通工具；旗舰与团队档位补充原生流媒体解锁、IPLC 游戏向优化与更高并发。</p></div><div class=\"col\"><h3>官方身份与使用边界</h3><p>本页是初落信息与下载指引页。请以品牌全称「初落」核对套餐名称、价格口径与客户端说明。初落不在页面中展示虚构评分或匿名评价，套餐权益以如下公开条款为准。</p><ul><li>订阅按月或按年结算，年付对应公开优惠价。</li><li>流量按自然月重置，设备数按同时在线会话计算。</li><li>节点与解锁能力随套餐档位变化，不承诺不受控的无限用途。</li><li>官方下载仅通过本站锚点说明的客户端渠道获取。</li></ul></div></div></section><section class=\"block\" id=\"plans\"><h2>机场订阅套餐</h2><p>三档套餐围绕流量、设备数、流媒体与线路质量分层。价格与权益如下，便于对照后再选择官方下载与导入订阅。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"subprice\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"badge\">常用推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"subprice\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"subprice\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"note\">年付按 10 个月计费口径公示，便于把「网络加速」成本摊到整年使用。团队版面向工作室与小团队共用同一订阅入口，不建议个人把设备数打满后再频繁顶号。</p></section><section class=\"block\" id=\"scenes\"><h2>使用场景</h2><div class=\"row reverse\"><div class=\"col\"><h3>跨境办公与资料同步</h3><p>初落适合需要访问海外文档、代码托管、会议工具与邮件系统的远程协作。基础版覆盖日常网页与中等文件同步；若同时开着设计软件云盘、浏览器多标签与会议，旗舰版的 5 设备与更高流量更稳妥。</p><p>建议把办公设备固定在延迟更低的节点组，避免与娱乐流量抢同一条拥塞线路。</p></div><div class=\"col\"><h3>流媒体、学术检索与内容制作</h3><p>观看、听播、查文献或回源素材时，关键不在「能不能打开」，而在是否卡顿、是否被错误地区内容墙拦截。旗舰版强调全节点原生流媒体解锁，减少因公共出口被标记导致的循环验证。</p><p>制作团队若有多人同时拉取片源或素材库，应直接评估团队版的 1000GB 与高带宽节点，而不是让多份个人订阅互相抢线路。</p></div></div><div class=\"row\"><div class=\"col\"><h3>游戏加速与实时对战</h3><p>旗舰版包含 IPLC 专线游戏加速优化，目标是降低绕路跳数、减少高峰期抖动。它不是对所有游戏、所有区服的万能加速，而是把「可玩性」建立在更干净的专线路由上。</p><p>请把游戏客户端与加速开关放在同一台设备上测试，先观察丢包与延迟，再决定是否需要升级到团队版的 VIP 节点。</p></div><div class=\"col\"><h3>多终端出行与家庭共用</h3><p>手机热点、笔记本、平板同时在线时，设备数会先于流量成为瓶颈。基础版 3 台适合个人轻量出行；家庭或小型工作室把电视盒子、电脑和手机一起接入时，应预留余量，避免会话被挤下线。</p></div></div></section><section class=\"block\" id=\"nodes\"><h2>节点、线路与加速策略</h2><div class=\"row\"><div class=\"col plain\"><p>初落将节点分为普通池、原生流媒体池、IPLC 游戏向与 VIP 高带宽四类口径。基础版主要使用普通线路节点池，满足网页、即时通讯与轻量视频。旗舰版开放全节点原生解锁并叠加游戏向 IPLC。团队版再叠加 VIP 专属带宽与可申请的定制路由。</p><p>网络加速的实际体验受本地宽带、运营商高峰、目标站点风控共同影响。遇到单一节点变慢时，优先切换同区域备用节点，而不是反复开关客户端。长时间大文件传输建议避开游戏专线，把专线留给实时会话。</p></div></div></section><section class=\"block\" id=\"guide\"><h2>操作说明</h2><div class=\"row reverse\"><div class=\"col\"><h3>从订阅到连接的四步</h3><ol><li>在初落选择套餐档位，确认月付或年付后获得专属订阅地址。</li><li>打开已安装的官方或兼容客户端，选择「从 URL 导入订阅」。</li><li>更新节点列表，按场景挑选普通、流媒体或游戏向线路。</li><li>开启系统代理或 VPN 模式，用目标网站与测速页验证连通后再投入正式使用。</li></ol><p>同一订阅可在额度内的多台设备导入。超出同时在线上限时，最早的会话可能被顶替，团队请约定设备名单。</p></div><div class=\"col\"><h3>客户端侧建议</h3><p>桌面端可使用规则分流：国内直连、跨境走初落节点，避免所有流量挤进隧道。移动端在地铁或弱网环境建议开启自动恢复与节点超时切换，减少应用假死。</p><p>若导入失败，先检查订阅被完整复制、系统时间准确、客户端内核版本不过旧。不要把订阅链接发到公开群，以免流量被盗刷。</p></div></div></section><section class=\"block\" id=\"download\"><h2>客户端下载</h2><p>初落支持把机场订阅导入常见加速器与 VPN 客户端。请通过下方官方下载说明获取安装包，安装完成后只导入你在初落账户中的订阅，不混用来源不明的配置。</p><div class=\"row\"><div class=\"col\"><h3>桌面端</h3><ul><li><a href=\"#download\">Windows 官方客户端</a>：适合规则分流与多节点测延迟。</li><li><a href=\"#download\">macOS 官方客户端</a>：适配系统代理与开机自启。</li><li>兼容 Clash 内核的配置导入方式，便于已有工作流的用户平滑迁移。</li></ul></div><div class=\"col\"><h3>移动端</h3><ul><li><a href=\"#download\">Android 官方客户端</a>：可按应用分流，减少耗电。</li><li><a href=\"#download\">iOS 配置指引</a>：按系统版本完成描述文件或客户端授权。</li><li>平板与电脑同时在线时，请对照套餐设备上限。</li></ul></div></div><p class=\"note\">所谓「官网下载」是指本页给出的初落客户端入口与导入步骤。第三方网盘、群文件和修改版安装包不在支持范围，也容易造成订阅泄露。</p></section><section class=\"block\" id=\"faq\"><h2>常见问题</h2><div class=\"faq-wrap\"><p>以下问题覆盖初落机场订阅、VPN 梯子、加速器使用与官方下载。展开即可阅读完整说明。</p><details><summary>初落是机场还是 VPN？我该怎么选客户端？</summary><p>初落同时提供机场订阅与 VPN 接入体验：订阅决定你可以调用哪些节点、多少流量；客户端决定加密通道如何在系统里工作。若你习惯规则分流，使用兼容 Clash 内核的加速器即可；若你希望「一键全局」，使用初落说明中的 VPN 模式客户端。两者读取的是同一份订阅，不必重复付费。</p></details><details><summary>如何在初落官网完成客户端下载并导入订阅？</summary><p>先确认你已获得初落订阅地址，再前往本页「客户端下载」选择对应系统。安装后打开客户端，使用「从 URL 导入」粘贴订阅并更新节点。第一次连接建议选择普通线路做连通测试，再切换流媒体或 IPLC 游戏节点。若安装包校验失败，回到本站重新获取，不要改用镜像站。</p></details><details><summary>基础版、旗舰版、团队版的流量和设备数如何理解？</summary><p>基础版每月 100GB、3 台同时在线，面向个人浏览与轻度视频。旗舰版每月 300GB、5 台在线，并提供全节点原生流媒体与 IPLC 游戏优化。团队版每月 1000GB、20 台在线，附加 VIP 高带宽、定制路由与专属客户经理。流量在结算周期内累计，设备数按同时建立的有效会话计算，不是「曾经登录过的设备总数」。</p></details><details><summary>年付「按年付仅需」的价格如何对照月付？</summary><p>基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付按十个月口径优惠，适合已经验证线路可用、计划长期把初落当作网络加速入口的用户。若你仍在试用节点质量，可先月付，确认延迟与解锁表现后再改年付。</p></details><details><summary>旗舰版的原生流媒体解锁和 IPLC 游戏加速一定生效吗？</summary><p>旗舰版开放全节点原生流媒体解锁与 IPLC 专线游戏优化，覆盖常见影视、直播与对战场景，但仍受目标平台风控、本地宽带和地区节点负载影响。遇到单一平台异常，优先更换同套餐内其他原生节点，并避免把游戏与 4K 拉流挤在同一条专线。团队若有固定赛区或固定内容库，可升级团队版申请更稳定的路由策略。</p></details><details><summary>流量用尽或设备超限时会发生什么？</summary><p>当月流量用尽后，加速会降速或暂停，等待下个周期重置，也可升级到更高档位。同时在线超出套餐上限时，新会话可能无法建立或旧会话被挤下。这是为了保证节点池对其他用户仍然可用。建议在客户端里关掉闲置设备的自动重连，团队版用户应由管理员分配设备名单。</p></details><details><summary>如何联系支持以及怎样识别仿冒下载？</summary><p>旗舰版含 7x24 优先工单，团队版另有专属客户经理。提交问题时请附上套餐类型、客户端版本、节点名称与发生时间。识别官网的方法很直接：品牌写作「初落」，套餐名称与价格与本页一致，下载入口指向页面内锚点说明。任何要求你关闭安全软件、反复重装来源不明安装包的引导，都不应继续。</p></details></div></section><section class=\"block\" id=\"ads\"><h2>合作与广告位</h2><div class=\"adbox\"><p>本区域为初落官网合作信息位，用于展示与网络工具、云协作或合法内容平台的文字合作，不加载第三方脚本广告。有品牌合作需求请通过工单注明「广告位」，并提供落地页与联系人。初落不对非本站下载的客户端与非本站订阅负责。</p></div></section><section class=\"block\" id=\"friends\"><h2>友情链接</h2><p class=\"friends\"><a href=\"#top\">初落首页</a><a href=\"#download\">官方下载</a><a href=\"#plans\">订阅套餐</a><a href=\"#faq\">问题中心</a><a href=\"#map\">站点地图</a></p><p class=\"muted\">友链仅放置与初落使用说明相关的站内入口，便于对照机场订阅、加速器与客户端下载路径。</p></section><section class=\"block\" id=\"map\"><h2>网站地图</h2><p class=\"sitemap\"><a href=\"#top\">顶部</a><a href=\"#intro\">品牌简介</a><a href=\"#plans\">订阅套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#nodes\">节点线路</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作广告</a><a href=\"#friends\">友情链接</a></p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>初落官方网站 · 机场订阅与 VPN 网络加速服务说明</p><p>用于公开套餐、操作说明与官方下载指引。使用加速器时请遵守所在地法律法规与目标网站条款。</p>品牌：初落　站点：https://chuluo.com/　定位：初落机场 / 初落 VPN 客户端与订阅</div></footer>",
+          "hash": "03612b268411ebca2fbf682cdc5ea6dc14b901cfb6a6221808272b11128692c7",
+          "seo": {
+            "title": "初落官网：机场订阅、VPN 梯子与网络加速客户端下载",
+            "keywords": "初落,初落官网,初落机场,初落VPN,初落加速器,机场订阅,梯子,网络加速,客户端下载,官方下载",
+            "description": "初落提供机场订阅与 VPN 网络加速服务，覆盖办公跨境、流媒体与游戏加速场景，支持多端官方客户端下载，套餐含基础版、旗舰版与团队版。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ovrqeat.cn",
+    "host": "p-89e81f0d2f.ovrqeat.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "ovrqeat.cn",
+      "url": "https://ovrqeat.cn/",
+      "label": "白嫖(Mcat)",
+      "apex": "ovrqeat.cn",
+      "kind": null,
+      "identity": "xnrpndtpw/page-b78f649c5a09b11477d3d9f9"
+    },
+    {
+      "host": "dqcgnxl.cn",
+      "url": "https://dqcgnxl.cn/",
+      "label": "初落",
+      "apex": "dqcgnxl.cn",
+      "kind": null,
+      "identity": "mbhpfdkpa/page-b10552f7a845f21ba3f3f189"
+    },
+    {
+      "host": "flashfoxjc.com",
+      "url": "https://flashfoxjc.com/",
+      "label": "初落",
+      "apex": "flashfoxjc.com",
+      "kind": null,
+      "identity": "yfnywxgph/page-c84924d790b95b77809866a3"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "db488389f571c0766c212848257ac951190d50b8499b55c77c8761551b28bed9",
+    "sitemap.xml": "464eec630db556ef53d8ab2dd4b1722bf32ce06da8b9d5efba562b68dbd3349e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a07a685763d5be38a28fe913eb3188cb2eb246044e9637fd6657a940680c49b9",
+    "robots.txt": "308fffb81d185b60b3feaa4855b0a0a962764c6eeb835833b78d09cbe6e0d813",
+    "a406fb703af1eb98533a1488153911e0.txt": "41c5e46d6953fc534ce6a129eeba8ccaad4f48f9b2f080cccc6321b94981b5b7"
+  },
+  "revision": "f7e33b01cbd04cf972461c6217146d1c459d61e744394e64f981953f1ad07942"
+}
